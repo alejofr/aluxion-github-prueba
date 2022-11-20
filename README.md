@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## instrucciones, para poder utilizar la api de github, debe haber generado
+## el token de acceso personal, en la configuracion de su perfil de github
